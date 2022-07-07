@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicenterusso" alt="vicenterusso" /></a> </p>
 
-- 🌱 I’m currently learning **Devops, IaC and Machine Learning**
+- 🌱 I’m currently learning **Devops, IaC, Web3 and Machine Learning**
 
 - 🎮 Game Developer at www.sevensails.com.br
 
