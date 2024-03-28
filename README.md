@@ -7,6 +7,8 @@
 
 - 🎮 Game Developer at www.sevensails.com.br
 
+- 🕹️ Game Developer at www.pixelcrate.games
+
 - 📈 Expert Advisor Developer at www.pantheonbots.trade
 
 - 🍊 Full Stack Developer at www.infosolutions.com.br
