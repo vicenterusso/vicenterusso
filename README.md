@@ -11,7 +11,7 @@
 
 - 📈 Expert Advisor Developer at www.pantheonbots.trade
 
-- 🍊 Full Stack Developer at www.infosolutions.com.br
+- 🍊 Senior Developer at www.orthodonticbrasil.com.br
 
 - 💬 Ask me about **Unity, Devops, Laravel and Flutter** 💜
 
