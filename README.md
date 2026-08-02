@@ -1,7 +1,7 @@
 <h1>Hey, I'm Vicente Russo Neto 🖖</h1>
 <h3>A passionate game & full stack developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicenterusso" alt="vicenterusso" /></a> </p>
+![](https://github-trophies.vercel.app/?username=vicenterusso)
 
 - 🌱 I’m currently learning **Kubernetes ☸️, Devops 🛠️, Go 🚀 and Rust 🦀**
 
